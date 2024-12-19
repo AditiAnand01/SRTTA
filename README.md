@@ -30,6 +30,7 @@ SRTTA achieves impressive improvements in SR quality and speed compared to state
 ## References
 
 https://arxiv.org/abs/2310.19011
+
 https://ieeexplore.ieee.org/document/7084843
 
 
